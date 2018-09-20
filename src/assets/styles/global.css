@@ -1,0 +1,22 @@
+html,
+body,
+#root {
+  height: 100%;
+  background-color: #FFF !important
+}
+.am-icon-loading {
+  animation-name: rotate
+}
+.am-list-header,
+.am-list-footer {
+  padding: 0
+}
+.am-list-body::before,
+.am-list-body::after {
+  height: 0 !important
+}
+@keyframes rotate {
+  to {
+    transform: rotate(1turn)
+  }
+}

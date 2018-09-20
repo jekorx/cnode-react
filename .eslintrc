@@ -1,0 +1,27 @@
+{
+  "extends": [
+    "standard",
+    "plugin:react/recommended"
+  ],
+  "env": {
+    "browser": true,
+    "commonjs": true,
+    "node": true,
+    "es6": true
+  },
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "ecmaVersion": 7,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "plugins": [
+    "react"
+  ],
+  "rules": {
+    "arrow-parens": ["error", "as-needed"],
+    "object-curly-spacing": [1, "always"]
+  }
+}

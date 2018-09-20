@@ -1,0 +1,27 @@
+[
+  {
+    "path": "/all",
+    "title": "全部",
+    "icon": "list"
+  },
+  {
+    "path": "/good",
+    "title": "精华",
+    "icon": "star"
+  },
+  {
+    "path": "/share",
+    "title": "分享",
+    "icon": "share"
+  },
+  {
+    "path": "/ask",
+    "title": "问答",
+    "icon": "msg"
+  },
+  {
+    "path": "/job",
+    "title": "招聘",
+    "icon": "users"
+  }
+]
