@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react'
 import PropTypes from 'prop-types'
 import Icon from '@components/icon'
-import styles from '@styles/components'
+import styles from '@styles/components.module.scss'
 
 export default class BackTop extends PureComponent {
   static propTypes = {

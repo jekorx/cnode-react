@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { inject, observer } from 'mobx-react'
 import { withRouter } from 'react-router-dom'
 import PropTypes from 'prop-types'
-import styles from '@styles/about'
+import styles from '@styles/about.module.scss'
 
 @inject('_GV_')
 @observer

@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 import Tag from '@components/tag'
 import Icon from '@components/icon'
 import Info from './info'
-import styles from '@styles/topic'
+import styles from '@styles/topic.module.scss'
 import InnerHTML from '@components/innerhtml'
 import Comment from './comment'
 

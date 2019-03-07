@@ -1,6 +1,6 @@
 import React, { PureComponent } from 'react'
 import PropTypes from 'prop-types'
-import styles from '@styles/components'
+import styles from '@styles/components.module.scss'
 
 export default class InnerHTML extends PureComponent {
   static propTypes = {

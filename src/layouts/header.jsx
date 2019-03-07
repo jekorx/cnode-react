@@ -5,7 +5,7 @@ import { NavBar } from 'antd-mobile'
 import PropTypes from 'prop-types'
 import Icon from '@components/icon'
 import Logo from './logo'
-import styles from '@styles/layouts'
+import styles from '@styles/layouts.module.scss'
 import menuData from '@src/json/menu'
 
 const withBack = ({ location: { pathname } }) => {

@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react'
-import styles from '@styles/layouts'
+import styles from '@styles/layouts.module.scss'
 
 export default class Logo extends PureComponent {
   render () {

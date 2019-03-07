@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import UserHeader from '@components/userheader'
 import Icon from '@components/icon'
 import { getTimeInfo } from '@utils'
-import styles from '@styles/user'
+import styles from '@styles/user.module.scss'
 
 export default class Info extends PureComponent {
   static propTypes = {

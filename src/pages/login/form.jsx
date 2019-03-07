@@ -3,7 +3,7 @@ import { inject, observer } from 'mobx-react'
 import PropTypes from 'prop-types'
 import { Button, InputItem, Toast } from 'antd-mobile'
 import $http from '@api'
-import styles from '@styles/login'
+import styles from '@styles/login.module.scss'
 
 @inject('_GV_', 'user')
 @observer

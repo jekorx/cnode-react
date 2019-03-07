@@ -14,14 +14,26 @@
     "ecmaVersion": 7,
     "sourceType": "module",
     "ecmaFeatures": {
-      "jsx": true
+      "jsx": true,
+      "legacyDecorators": true
+    }
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
     }
   },
   "plugins": [
     "react"
   ],
   "rules": {
-    "arrow-parens": ["error", "as-needed"],
-    "object-curly-spacing": [1, "always"]
+    "arrow-parens": [
+      "error",
+      "as-needed"
+    ],
+    "object-curly-spacing": [
+      1,
+      "always"
+    ]
   }
 }

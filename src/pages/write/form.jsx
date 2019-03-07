@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react'
 import PropTypes from 'prop-types'
 import { Picker, List, TextareaItem, InputItem, Button, Toast } from 'antd-mobile'
-import styles from '@styles/write'
+import styles from '@styles/write.module.scss'
 import typesData from '@src/json/types'
 import $http from '@api'
 

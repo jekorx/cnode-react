@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react'
 import PropTypes from 'prop-types'
 import Icon from '@components/icon'
-import styles from '@styles/message'
+import styles from '@styles/message.module.scss'
 
 export default class Title extends PureComponent {
   static propTypes = {

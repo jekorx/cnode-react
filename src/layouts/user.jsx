@@ -4,7 +4,7 @@ import { inject, observer } from 'mobx-react'
 import PropTypes from 'prop-types'
 import Icon from '@components/icon'
 import UserHeader from '@components/userheader'
-import styles from '@styles/layouts'
+import styles from '@styles/layouts.module.scss'
 import $http from '@api'
 
 @inject('_GV_', 'user')

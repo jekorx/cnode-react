@@ -5,7 +5,7 @@ import { Toast } from 'antd-mobile'
 import InnerHTML from '@components/innerhtml'
 import Icon from '@components/icon'
 import Comment from './comment'
-import styles from '@styles/topic'
+import styles from '@styles/topic.module.scss'
 import { getTimeInfo, checkLogin } from '@utils'
 import $http from '@api'
 

@@ -2,7 +2,7 @@ import React, { PureComponent } from 'react'
 import PropTypes from 'prop-types'
 import { Link } from 'react-router-dom'
 import Tag from '@components/tag'
-import styles from '@styles/list'
+import styles from '@styles/list.module.scss'
 import { getTimeInfo } from '@utils'
 
 export default class Item extends PureComponent {

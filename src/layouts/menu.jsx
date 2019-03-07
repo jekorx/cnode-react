@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 import PropTypes from 'prop-types'
 import Icon from '@components/icon'
 import Logout from './logout'
-import styles from '@styles/layouts'
+import styles from '@styles/layouts.module.scss'
 
 import User from './user'
 

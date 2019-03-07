@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from '@styles/components'
+import styles from '@styles/components.module.scss'
 
 export default function Loading ({ error, pastDelay }) {
   if (error) {

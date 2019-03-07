@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react'
 import PropTypes from 'prop-types'
 import { Link } from 'react-router-dom'
-import styles from '@styles/user'
+import styles from '@styles/user.module.scss'
 import { getTimeInfo } from '@utils'
 
 export default class Item extends PureComponent {

@@ -3,7 +3,7 @@ import { inject, observer } from 'mobx-react'
 import { withRouter } from 'react-router-dom'
 import PropTypes from 'prop-types'
 import Icon from '@components/icon'
-import styles from '@styles/layouts'
+import styles from '@styles/layouts.module.scss'
 
 @inject('_GV_', 'user')
 @observer

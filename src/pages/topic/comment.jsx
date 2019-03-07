@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react'
 import PropTypes from 'prop-types'
 import { Button, Toast } from 'antd-mobile'
-import styles from '@styles/topic'
+import styles from '@styles/topic.module.scss'
 import $http from '@api'
 
 export default class Comment extends PureComponent {
