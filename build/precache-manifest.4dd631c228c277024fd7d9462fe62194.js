@@ -88,12 +88,12 @@ self.__precacheManifest = [
     "url": "/cnode-react/static/media/logo.21d16b1e.svg"
   },
   {
-    "revision": "b3419887896f982b4f2a1dcd83ef81bf",
-    "url": "/cnode-react/static/media/loading.b3419887.gif"
-  },
-  {
     "revision": "0f0af804f63c60cf753db96d8f9a6cc0",
     "url": "/cnode-react/static/media/error.0f0af804.png"
+  },
+  {
+    "revision": "b3419887896f982b4f2a1dcd83ef81bf",
+    "url": "/cnode-react/static/media/loading.b3419887.gif"
   },
   {
     "revision": "96ae842717c2a16e0d1ab44b1f5a4474",
