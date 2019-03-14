@@ -42,7 +42,7 @@
     "postcss-viewport-units": "^0.1.6",
     "postcss-write-svg": "^3.0.1",
     "react-app-rewired": "^2.1.0",
-    "react-hot-loader": "^4.7.2",
+    "react-hot-loader": "^4.8.0",
     "react-scripts": "2.1.8"
   },
   "browserslist": [
