@@ -53,6 +53,16 @@ class About extends Component {
             </blockquote>
           </div>
         </li>
+        <li>
+          <h4>CNodejs api接口公告</h4>
+          <p>update 2019-03-21: 涉及发帖和发评论的接口都已经下线了，太多人为了测试客户端乱发帖了。</p>
+          <p>
+            受影响功能<br />
+            1、发帖<br />
+            2、回复<br />
+            3、点赞、取消点赞
+          </p>
+        </li>
       </ul>
     )
   }

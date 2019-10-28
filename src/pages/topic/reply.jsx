@@ -63,7 +63,7 @@ class Replay extends PureComponent {
             <span className={styles['reply-left']}>
               <span className={styles['reply-name']}>{data.author.loginname}</span>
               <a href={`#${data.id}`} className={styles.anchor}>
-                {rowId + 1} 楼 · {getTimeInfo(data.create_at)}
+                {rowId} 楼 · {getTimeInfo(data.create_at)}
               </a>
               {data.author.loginname === author && <span className={styles['tag-author']}>作者</span>}
             </span>
