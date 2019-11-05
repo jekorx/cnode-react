@@ -4,9 +4,6 @@
 > CRA@2.x.x 默认支持css或scss module，.module.scss或者.module.css的样式文件，支持样式文件切分  
 > [访问地址](https://jekorx.github.io/cnode-react)，由于路由是history模式（无法配置github web服务器），在非 / 目录刷新会404  
 
-## 更早的版本
-> [branch cra-1.1.4](https://github.com/jekorx/cnode-react/tree/cra-1.1.4)，使用stylus module，但不支持样式文件切分  
-
 ## Tech Stack
 > 1、[antd-mobile](https://mobile.ant.design/docs/react/introduce-cn)，移动UI  
 > 2、fetch    
